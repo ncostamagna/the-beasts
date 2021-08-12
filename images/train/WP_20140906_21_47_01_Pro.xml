@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WP_20140906_21_47_01_Pro.jpg</filename>
+	<path>/media/ncostamagna/Costamagna/Proyectos/the-beasts/images/train/WP_20140906_21_47_01_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>49</ymin>
+			<xmax>345</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WP_20170723_13_59_24_Pro 1.jpg</filename>
+	<path>/media/ncostamagna/Costamagna/Proyectos/the-beasts/images/train/WP_20170723_13_59_24_Pro 1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mateo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>169</ymin>
+			<xmax>492</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>azul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>374</ymin>
+			<xmax>456</xmax>
+			<ymax>744</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>294</ymin>
+			<xmax>772</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

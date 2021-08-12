@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WP_20140901_21_59_39_Pro__highres.jpg</filename>
+	<path>/media/ncostamagna/Costamagna/Proyectos/the-beasts/images/train/WP_20140901_21_59_39_Pro__highres.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1928</width>
+		<height>1088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ulises</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>882</xmin>
+			<ymin>427</ymin>
+			<xmax>1255</xmax>
+			<ymax>863</ymax>
+		</bndbox>
+	</object>
+</annotation>

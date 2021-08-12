@@ -1,0 +1,10 @@
+training/checkpoint
+training/ckpt*
+training/train
+.ipynb_checkpoints
+efficientdet_d0_coco17_tpu-32
+*.record
+models
+anything
+inference_graph_1
+inference_graph_2

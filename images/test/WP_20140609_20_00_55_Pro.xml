@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>WP_20140609_20_00_55_Pro.jpg</filename>
+	<path>/media/ncostamagna/Costamagna/Proyectos/the-beasts/images/test/WP_20140609_20_00_55_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>80</ymin>
+			<xmax>531</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

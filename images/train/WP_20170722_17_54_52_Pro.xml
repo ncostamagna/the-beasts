@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WP_20170722_17_54_52_Pro.jpg</filename>
+	<path>/media/ncostamagna/Costamagna/Proyectos/the-beasts/images/train/WP_20170722_17_54_52_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mugroso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>96</ymin>
+			<xmax>662</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>
